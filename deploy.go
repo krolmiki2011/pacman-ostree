@@ -1,0 +1,1 @@
+// Instalowanie systemu z kontenera
